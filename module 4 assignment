@@ -1,0 +1,57 @@
+(1) What is JavaScript?
+Ans :- JavaScript is a scripting language.
+
+(2) What is the use of isNaN function? 
+Ans :- The isNaN() function is used to check whether a given value is an illegal number or not.
+
+(3) What is negative Infinity?
+Ans :- Negative infinity in javaScript means value is minus and used to calculation in programing.
+
+(4) Which company developed JavaScript?
+Ans :- JavaScript is developed by netscape company.
+
+(5) What are undeclared and undefined variables?
+Ans :- Undefined variable means a variable has been declared but it does not have a value.
+
+(6) Write the code for adding new elements dynamically?
+Ans :- function addNode() 
+     {
+        var newP = document.createElement("p"); 
+	  var textNode = document.createTextNode(" This is a new text node"); 
+	  newP.appendChild(textNode);
+      document.getElementById("firstP").appendChild(newP);
+     }
+
+ (7) What is the difference between ViewState and SessionState? 
+ Ans :- ViewState : It is stored in a hidden field so that it isn't visible to the user.
+        SessionState :  It's a way to track what the user is doing on the site.
+
+ (8) What is === operator?
+ Ans :- The triple equals operator ( === ) returns true if both operands are of the same type and contain the same value.
+
+ (9) How can the style/class of an element be changed?
+ Ans :- document.getElementById('myElement').className = "myclass";
+
+ (10) How to read and write a file using JavaScript? 
+ Ans :- fread() is used to file read and  fwrite() is used to file write.
+ 
+ (11) What are all the looping structures in JavaScript? 
+ Ans :- for loop, foreach loop, while loop, do while, etc.
+
+ (12) How can you convert the string of any base to an integer in JavaScript?
+ Ans :- parseInt() is used to convert the base value to the integer in javaScript.
+
+ (13) What is the function of the delete operator?
+ Ans :- The delete operator removes a property from an object.
+
+ (14) What are all the types of Pop up boxes available in JavaScript? 
+ Ans :- JavaScript has three kind of popup boxes: Alert box, Confirm box, and Prompt box.
+
+ (15) What is the use of Void (0)? 
+ Ans :- JavaScript void 0 means returning undefined (void) as a primitive value.
+
+ (16) How can a page be forced to load another page in JavaScript? 
+ Ans :- We use the location property inside the script tag to forcefully load another page in Javascript.
+
+ (17) What are the disadvantages of using innerHTML in JavaScript? 
+ Ans :- The use of innerHTML very slow, Breaks the document, Used for Cross-site Scripting.

@@ -1,0 +1,60 @@
+(1) What are the benefits of using CSS?
+Ans :- html structure is more attractive and beautiful after use css in html. 
+
+(2)  What are the disadvantages of CSS?
+Ans :- different size browser in use different size adjustable css is so lengthy.
+
+(3) What is the difference between CSS2 and CSS3? 
+Ans :- css3 in some new properties available like mediaquery, animation, flexbox, filter, etc.
+
+(4) Name a few CSS style components
+Ans :- id, class , font-size, color, text-align, align-items, background-color, background-image, etc.
+
+(5) What do you understand by CSS opacity?
+Ans :- css opacity means how darkness of colors.
+
+(6) How can the background color of an element be changed? 
+Ans :-  example:- <h2 style="background-color: aqua;">Brilliant School</h2>
+
+(7) How can image repetition of the backup be controlled? 
+Ans :- example:- background:url(images/b1.jpg) no-repeat;
+
+(8) What is the use of the background-position property?
+Ans :- the use of background-position properties we set the background position like left, center or right.
+
+(9)  Which property controls the image scroll in the background? 
+Ans :- background-attachment: fixed;
+
+(10) Why should background and color be used as separate properties? 
+Ans :- 
+
+(11) How to center block elements using CSS1? 
+Ans :- using margin property to set the center block element.
+
+(12) How to maintain the CSS specifications?
+Ans :- 
+
+(13) What are the ways to integrate CSS as a web page?
+Ans :- There are three ways to integrate css as web page (1) inline css (2) internal css (3) external css.
+
+(14) What is embedded style sheets? 
+Ans :- embedded css means you can write css in <style> tag in html page.
+
+(15) What are the external style sheets?
+Ans :- external css means you can create a new separate css file like style.css and write css here. and css file link in html page using link tag like <link rel="stylesheet" href="style.css">.
+
+(16) What are the advantages and disadvantages of using external style sheets? 
+Ans :- advantages :- one change to the style sheet change all linked pages.
+       disadvantages :- not used for small html page.
+
+(17) What is the meaning of the CSS selector? 
+Ans :- css selector means call the html class, id, and tags.
+
+(18) What are the media types allowed by CSS?
+Ans :- 
+
+(19) What is the rule set? 
+Ans :-
+
+(20) Create Layouts.
+Ans :-

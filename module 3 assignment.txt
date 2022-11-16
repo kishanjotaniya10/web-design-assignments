@@ -1,0 +1,30 @@
+(1) What are the new tags added in HTML5? 
+Ans :- (1)<header></header>
+       (2)<nav></nav>
+       (3)<article></article>
+       (4)<aside></aside>
+       (5)<section></section>
+       (6)<audio></audio>
+       (7)<video></video> 
+       (8)<svg></svg> 
+       (9)<canvas></canvas>
+       (10)<footer></footer>
+
+(2)  How to embed audio and video in a webpage? 
+Ans :- Audio :- <audio controls>
+        <source src="" type="audio/mp3">
+    </audio>
+
+    Video :- <video controls>
+        <source src="" type="video/mp4">
+    </video>
+
+(3) Semantic element in HTML5?
+Ans :- HTML5 in available tags is a semantic element like <header>,<nav>,<footer>.
+
+(4) Canvas and SVG tags
+Ans :- Canvas tag define in  <canvas style="height: 300px; width: 400px; background-color: aqua;"></canvas> tag.
+
+       Svg  tag in define <svg height="200" width="200">
+        <rect height="100" width="100" style="fill: blue;"></rect>
+    </svg> 

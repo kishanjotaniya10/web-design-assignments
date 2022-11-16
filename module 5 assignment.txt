@@ -1,0 +1,18 @@
+(1) What is jQuery? 
+Ans :- jQuery is a fast, small, and feature-rich JavaScript library.
+
+(2) How to Apply CSS Using JQuery, How to Add Class and Remove Class in Jquery , JQuery Animation?
+Ans :- $('bca') . mouseover(function(){ $(this). stop(). animate( {backgroundColor:'blue'}, {duration:500}); })
+
+Add Class :- .addClass(className, [duration], [easing], [callback])
+Remove Class :- .removeClass(className, [duration], [easing], [callback])
+Jquery Animation :-$('#bca')
+  .mouseover(function(){
+    $(this).stop().animate( {backgroundColor:'blue'}, {duration:500});
+  })
+  .mouseout(function(){
+    $(this).stop().animate( {backgroundColor:'red'}, {duration:500});
+  });
+
+(3) How to create slider with animation? 
+Ans :- Add jQuery Code to hide images and add next and Previous buttons after add nift .Animate()Method.

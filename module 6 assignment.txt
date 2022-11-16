@@ -1,0 +1,47 @@
+(1) What are the advantages of Bootstrap?
+Ans :- Easy to prevent repetitions among multiple projects, Easy to ressponsive web design.
+
+(2) What is a Bootstrap Container, and how does it work? 
+Ans :- Bootstrap Containers are the most basic layout element in Bootstrap. It’s responsible for setting and aligning content within it according to viewport or given device. Elements and content are added within the container.
+
+(3) What are the default Bootstrap text settings? 
+Ans :- There are many default text setting available in Bootstrap like font-size, font-color.
+
+(4) What do you know about the Bootstrap Grid System?
+Ans :- Grid system mostly used to ressponsive website design.
+
+(5) What is the difference between Bootstrap 4 and Bootstrap 5 
+Ans :- Bootstrap 4 : layout(xs, sm, md, lg, xl)
+Bootstrap 5 : layout(xs, sm, md, lg, xl, xxl)
+
+Bootstrap 4 : We cannot modify utilities in bootstrap 4
+Bootstrap 5 : Bootstrap 5 gave freedom to modify and also create our own utility
+
+Bootstrap 4 : Bootstrap 4 doesn’t have its own SVG icons, we have to use font-awesome for icons.
+Bootstrap 5 : Bootstrap 5 have its own SVG icons
+
+(6) What is a Button Group, and what is the class for a basic Button Group? 
+Ans :- Button group is used to create series of buttons in groups (without spaces) vertically or horizontally. class = btn-group.
+
+(7) How can you use Bootstrap to make thumbnails?
+Ans :- Add <a> tag with class value thumbnail to define the link of the image in the next line. <a href="#" class="thumbnail">
+
+(8) In Bootstrap 4, what is flexbox?
+Ans :- flexbox means when multiple div available and you need all div show in one line then you can use flexbox.
+
+(9) How can one create an alert in Bootstrap?
+Ans :- alert use to highlight color or background color like text-info, text-danger, text-light, bg-light, bg-danger, bg-dark.
+
+(10) What is a bootstrap card and how would you create one?
+Ans :- bootstrap card is mostly used when we need the image and description in one vertical box.
+
+example :- 
+
+<div class="card" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
